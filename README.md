@@ -1,4 +1,4 @@
-# WordPress Manager
+# WPress Manager - WordPress Manager Tool
 
 ## Overview
 WordPress Manager is a comprehensive tool designed to simplify and enhance the management of WordPress websites. Built using modern web technologies, this application provides an intuitive interface and robust functionality for both developers and site administrators.
